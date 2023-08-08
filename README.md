@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Raikar N</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vijayraikarn" target="blank"><img src="https://img.shields.io/twitter/follow/vijayraikarn?logo=twitter&style=for-the-badge" alt="vijayraikarn" /></a> </p>
 
